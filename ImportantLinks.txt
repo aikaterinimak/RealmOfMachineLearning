@@ -1,0 +1,13 @@
+https://github.com/Azure-Readiness/hol-azure-machine-learning
+https://github.com/melzoghbi/DataCamp
+
+Blog: http://www.mostafaelzoghbi.com/
+
+Azure Machine Learning documentation
+https://azure.microsoft.com/en-us/documentation/services/machinelearning/
+
+Free e-book “Azure Machine Learning”
+https://mva.microsoft.com/ebooks#9780735698178
+
+Cortana Intelligence Gallery:
+https://gallery.cortanaintelligence.com/machineLearningAPIs
